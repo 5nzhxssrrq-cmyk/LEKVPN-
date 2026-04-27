@@ -1,0 +1,2 @@
+vless://bd28bd56-0b10-4243-a95a-050c9b3b92db@g1.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g1.steptofreedom.one&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp#🇪🇺 LEK VPN | Быстрый
+vless://bd28bd56-0b10-4243-a95a-050c9b3b92db@g11.steptofreedom.one:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=g11.steptofreedom.one&fp=randomized&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c&type=tcp#🇩🇪 LEK VPN | Быстрый
