@@ -1,2 +1,0 @@
-# LEKVPN-
-LEK VPN
